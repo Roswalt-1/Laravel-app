@@ -1,20 +1,64 @@
-# Personal Task Manager
+<h1 align="center">PERSONAL TASK MANAGER</h1>
 
-Project Code:
-WST21-PM-2026-SF
+---
 
-Student Name:
-Savior, Stephon Marburry N.
+<p align="center">
+  <b>Project Code:</b> WST21-PM-2026-SF
+</p>
 
-Course & Year: 
-BSIT 2ND YEAR, 1ST SEM
+---
 
-Database Used:
-SQLite
+**ABOUT**<br>
+A simple task manager for handling personal tasks. You can add more tasks, listing due to pending or completed tasks, and updating the tasks.
 
-Features:
+---
+**INFORMATION**
+
+ **Student Name:**<br>
+ Savior, Stephon Marburry N.<br>
+**Course & Year:**<br>
+BSIT 2nd Year, 1st Sem <br>
+ **Database Used:**<br>
+ SQLite 
+
+---
+
+**FEATURES**
 - Add Task
 - View Tasks
 - Edit Task
 - Delete Task
-- Update Status
+- Update Status(PENDING || COMPLETED)
+
+---
+
+<h1 align="center">How to run it?</h1>
+<h4 align="center">Since my project "my_project1" is inside the subfolder. This will be the command when you run a terminal.</h4>
+
+```bash
+cd my_project1
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
+```
+---
+
+<h1 align="center">DEMONSTRATION</h1>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Roswalt-1/Laravel-app/main/Png/Main%20page.png" width="700" alt="Main Page">
+</p>
+<h3 align="center">-You can add tasks, see the total tasks, pending & completed tasks.</h3>
+<p align="center">
+<img src="Png/You%20can%20add%20tasks.png" width="700" alt="Add Tasks">
+</p>
+<h3 align="center">-You can type the task name, add description(optional), add due date for the deadline, and tasks status.</h3>
+<p align="center">
+<img src="Png/Task%20complete.png" width="700" alt="Showed the task on pending or completed">
+</p>
+<h3 align="center">-As you can see a task is now in a table shown the name, description, due date, status. You can also edit the task by either if you wanna change it or delete the task.</h3>
+
