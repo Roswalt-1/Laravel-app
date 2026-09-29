@@ -23,3 +23,6 @@ BSIT 2nd Year, 1st Sem <br>
 - Edit Task
 - Delete Task
 - Update Status(PENDING || COMPLETED)
+
+<h1 align="center">DEMONSTRATION</h1>
+![image alt](https://github.com/Roswalt-1/Laravel-app/blob/66fb02cf3a76a6ba862c7c4bee5560247bfbb6cb/Main%20page.png)
