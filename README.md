@@ -38,3 +38,6 @@ BSIT 2nd Year, 1st Sem <br>
 <img src="Png/You%20can%20add%20tasks.png" width="700" alt="Add Tasks">
 </p>
 <h3 align="center">You can type the task name, add description(optional), add due date for the deadline, and tasks status.</h3>
+<p>
+<img src="https://github.com/Roswalt-1/Laravel-app/main/Png/Task%20complete.png">
+</p>
