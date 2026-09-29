@@ -1,17 +1,25 @@
 <h1 align="center">PERSONAL TASK MANAGER</h1>
 
-<h3>Project Code:<h3></h3> WST21-PM-2026-SF
+<p align="center">
+  <b>Project Code:</b> WST21-PM-2026-SF
+</p>
 
-Student Name: Savior, Stephon Marburry N.
+---
 
-Course & Year: BSIT 2ND YEAR, 1ST SEM
+## 👤 Student Information
 
-Database Used: SQLite
+| | |
+|---|---|
+| **Student Name** | Savior, Stephon Marburry N. |
+| **Course & Year** | BSIT 2nd Year, 1st Sem |
+| **Database Used** | SQLite |
 
-Features:
+---
 
-Add Task<br>
-View Tasks<br>
-Edit Task<br>
-Delete Task<br>
-Update Status
+## ✨ Features
+
+- Add Task
+- View Tasks
+- Edit Task
+- Delete Task
+- Update Status
