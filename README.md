@@ -1,4 +1,4 @@
-<h1>PERSONAL TASK MANAGER</h1>
+<h1 align="center">PERSONAL TASK MANAGER</h1>
 
 Project Code: WST21-PM-2026-SF
 
