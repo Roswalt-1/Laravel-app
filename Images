@@ -1,0 +1,7 @@
+mkdir screenshots
+git mv "It is.png" screenshots/it-is.png
+git mv "Main page.png" screenshots/main-page.png
+git mv "Task complete.png" screenshots/task-complete.png
+git mv "You can add tasks.png" screenshots/add-tasks.png
+git commit -m "Move screenshots into folder"
+git push
