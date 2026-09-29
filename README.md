@@ -24,8 +24,8 @@ BSIT 2nd Year, 1st Sem <br>
 - Delete Task
 - Update Status(PENDING || COMPLETED)
 
-<h1 align="center">##DEMONSTRATION</h1>
+<h1 align="center">DEMONSTRATION</h1>
 <p>
-![image alt](Png/Main20%page.png)
+<img src="https://raw.githubusercontent.com/Roswalt-1/Laravel-app/main/Png/Main%20page.png" width="700" alt="Main Page">
 </p>
 -You can add tasks, see the total tasks, pending & completed tasks.
