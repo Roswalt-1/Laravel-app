@@ -54,11 +54,11 @@ php artisan serve
 </p>
 <h3 align="center">-You can add tasks, see the total tasks, pending & completed tasks.</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Roswalt-1/Laravel-app/main/Png/You%20can%20add%20tasks.png" width="700" alt="Add Tasks">
+<img src="https://raw.githubusercontent.com/Roswalt-1/Laravel-app/main/Png/You%20can%20add%20tasks.png" width="700" alt="Add Tasks">
 </p>
 <h3 align="center">-You can type the task name, add description(optional), add due date for the deadline, and tasks status.</h3>
 <p align="center">
-<img src="Png/Task%20complete.png" width="700" alt="Showed the task on pending or completed">
+<img src="https://raw.githubusercontent.com/Roswalt-1/Laravel-app/main/Png/Task%20complete.png" width="700" alt="Task Complete">
 </p>
 <h3 align="center">-As you can see a task is now in a table shown the name, description, due date, status. You can also edit the task by either if you wanna change it or delete the task.</h3>
 
