@@ -26,7 +26,7 @@ BSIT 2nd Year, 1st Sem <br>
 
 <h1 align="center">DEMONSTRATION</h1>
 <p>
-{image alt}(https://github.com/Roswalt-1/Laravel-app/blob/66fb02cf3a76a6ba862c7c4bee5560247bfbb6cb/Main%20page.png)
+![image alt](https://github.com/Roswalt-1/Laravel-app/blob/49a6aae4d3082fb0cf992a4135f200ce1368f649/Png/Main%20page.png)
 
 -You can add tasks, see the total tasks, pending & completed tasks.
 </p>
