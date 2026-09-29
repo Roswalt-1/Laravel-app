@@ -26,6 +26,6 @@ BSIT 2nd Year, 1st Sem <br>
 
 <h1 align="center">DEMONSTRATION</h1>
 <p>
-![image alt](Png/Main%20page.png)
+![image alt](Png/Main page.png)
 </p>
 -You can add tasks, see the total tasks, pending & completed tasks.
