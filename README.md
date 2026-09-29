@@ -1,14 +1,16 @@
 <h1 align="center">PERSONAL TASK MANAGER</h1>
 
+---
+
 <p align="center">
   <b>Project Code:</b> WST21-PM-2026-SF
 </p>
 
 ---
 
- **Student Name:**  Savior, Stephon Marburry N.
-**Course & Year:**  BSIT 2nd Year, 1st Sem 
- **Database Used:**  SQLite 
+ **Student Name:**<br>  Savior, Stephon Marburry N.<br>
+**Course & Year:**<br>  BSIT 2nd Year, 1st Sem <br>
+ **Database Used:**<br>  SQLite 
 
 ---
 
