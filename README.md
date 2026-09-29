@@ -28,4 +28,4 @@ BSIT 2nd Year, 1st Sem <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Roswalt-1/Laravel-app/main/Png/Main%20page.png" width="700" alt="Main Page">
 </p>
--You can add tasks, see the total tasks, pending & completed tasks.
+<h3 align="center">-You can add tasks, see the total tasks, pending & completed tasks.</h3>
