@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+**INFORMATION**
  **Student Name:**<br>
  Savior, Stephon Marburry N.<br>
 **Course & Year:**<br>
