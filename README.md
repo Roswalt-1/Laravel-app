@@ -25,6 +25,7 @@ BSIT 2nd Year, 1st Sem <br>
 - Update Status(PENDING || COMPLETED)
 
 <h1 align="center">DEMONSTRATION</h1>
+---
 <p align="center">
 <img src="https://raw.githubusercontent.com/Roswalt-1/Laravel-app/main/Png/Main%20page.png" width="700" alt="Main Page">
 </p>
