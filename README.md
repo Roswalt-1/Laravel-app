@@ -8,9 +8,9 @@
 
 ---
 
- **Student Name:**<br>  Savior, Stephon Marburry N.<br>
-**Course & Year:**<br>  BSIT 2nd Year, 1st Sem <br>
- **Database Used:**<br>  SQLite 
+ **Student Name:**<br><br>  Savior, Stephon Marburry N.<br>
+**Course & Year:**<br><br>  BSIT 2nd Year, 1st Sem <br>
+ **Database Used:**<br><br>  SQLite 
 
 ---
 
