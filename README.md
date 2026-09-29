@@ -22,4 +22,4 @@ BSIT 2nd Year, 1st Sem <br>
 - View Tasks
 - Edit Task
 - Delete Task
-- Update Status(PENDING || COMPLETED
+- Update Status(PENDING || COMPLETED)
