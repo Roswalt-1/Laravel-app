@@ -1,13 +1,14 @@
 <h1 align="center">PERSONAL TASK MANAGER</h1>
 
-
+---
 
 <p align="center">
   <b>Project Code:</b> WST21-PM-2026-SF
 </p>
+
 ---
 
-**ABOUT**
+**ABOUT**<br>
 A simple task manager for handling personal tasks. You can add more tasks, listing due to pending or completed tasks, and updating the tasks.
 
 ---
