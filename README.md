@@ -32,6 +32,18 @@ BSIT 2nd Year, 1st Sem <br>
 
 ---
 
+<h1 align="center">How to run it?</h1>
+<h4 align="center">Since my project "my_project1" is inside the subfolder. This will be the command when you run a terminal.</h4>
+
+cd my_project1
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
+
+---
+
 <h1 align="center">DEMONSTRATION</h1>
 
 ---
