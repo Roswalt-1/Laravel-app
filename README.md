@@ -37,7 +37,9 @@ BSIT 2nd Year, 1st Sem <br>
 <p align="center">
 <img src="Png/You%20can%20add%20tasks.png" width="700" alt="Add Tasks">
 </p>
-<h3 align="center">You can type the task name, add description(optional), add due date for the deadline, and tasks status.</h3>
-<p>
-<img src="Png/Task%20complete.png">
+<h3 align="center">-You can type the task name, add description(optional), add due date for the deadline, and tasks status.</h3>
+<p align="center">
+<img src="Png/Task%20complete.png" width="700" alt="Showed the task on pending or completed">
 </p>
+<h3 align="center">-As you can see a task is now in a table shown the name, description, due date, status. You can also edit the task by either if you wanna change it or delete the task.</h3>
+
