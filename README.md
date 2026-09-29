@@ -1,4 +1,5 @@
-Personal Task Manager
+<h1>PERSONAL TASK MANAGER</h1>
+
 Project Code: WST21-PM-2026-SF
 
 Student Name: Savior, Stephon Marburry N.
