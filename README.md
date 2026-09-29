@@ -5,6 +5,10 @@
 <p align="center">
   <b>Project Code:</b> WST21-PM-2026-SF
 </p>
+---
+
+**ABOUT**
+A simple task manager for handling personal tasks. You can add more tasks, listing due to pending or completed tasks, and updating the tasks.
 
 ---
 **INFORMATION**
