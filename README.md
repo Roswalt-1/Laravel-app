@@ -6,18 +6,13 @@
 
 ---
 
-## 👤 Student Information
-
-| | |
-|---|---|
-| **Student Name** | Savior, Stephon Marburry N. |
-| **Course & Year** | BSIT 2nd Year, 1st Sem |
-| **Database Used** | SQLite |
+ **Student Name:**  Savior, Stephon Marburry N.
+**Course & Year:**  BSIT 2nd Year, 1st Sem 
+ **Database Used:**  SQLite 
 
 ---
 
-## ✨ Features
-
+**FEATURES**
 - Add Task
 - View Tasks
 - Edit Task
