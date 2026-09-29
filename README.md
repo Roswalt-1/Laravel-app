@@ -6,7 +6,7 @@
   <b>Project Code:</b> WST21-PM-2026-SF
 </p>
 
-
+---
 
  **Student Name:**<br>
  Savior, Stephon Marburry N.<br>
@@ -15,7 +15,7 @@ BSIT 2nd Year, 1st Sem <br>
  **Database Used:**<br>
  SQLite 
 
-
+---
 
 **FEATURES**
 - Add Task
@@ -24,7 +24,11 @@ BSIT 2nd Year, 1st Sem <br>
 - Delete Task
 - Update Status(PENDING || COMPLETED)
 
+---
+
 <h1 align="center">DEMONSTRATION</h1>
+
+---
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Roswalt-1/Laravel-app/main/Png/Main%20page.png" width="700" alt="Main Page">
